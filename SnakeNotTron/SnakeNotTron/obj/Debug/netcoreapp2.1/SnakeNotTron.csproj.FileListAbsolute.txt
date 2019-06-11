@@ -1,0 +1,11 @@
+C:\Users\dbuckner\source\repos\SnakeNotTron\SnakeNotTron\bin\Debug\netcoreapp2.1\SnakeNotTron.deps.json
+C:\Users\dbuckner\source\repos\SnakeNotTron\SnakeNotTron\bin\Debug\netcoreapp2.1\SnakeNotTron.runtimeconfig.json
+C:\Users\dbuckner\source\repos\SnakeNotTron\SnakeNotTron\bin\Debug\netcoreapp2.1\SnakeNotTron.runtimeconfig.dev.json
+C:\Users\dbuckner\source\repos\SnakeNotTron\SnakeNotTron\bin\Debug\netcoreapp2.1\SnakeNotTron.dll
+C:\Users\dbuckner\source\repos\SnakeNotTron\SnakeNotTron\bin\Debug\netcoreapp2.1\SnakeNotTron.pdb
+C:\Users\dbuckner\source\repos\SnakeNotTron\SnakeNotTron\obj\Debug\netcoreapp2.1\SnakeNotTron.csprojAssemblyReference.cache
+C:\Users\dbuckner\source\repos\SnakeNotTron\SnakeNotTron\obj\Debug\netcoreapp2.1\SnakeNotTron.csproj.CoreCompileInputs.cache
+C:\Users\dbuckner\source\repos\SnakeNotTron\SnakeNotTron\obj\Debug\netcoreapp2.1\SnakeNotTron.AssemblyInfoInputs.cache
+C:\Users\dbuckner\source\repos\SnakeNotTron\SnakeNotTron\obj\Debug\netcoreapp2.1\SnakeNotTron.AssemblyInfo.cs
+C:\Users\dbuckner\source\repos\SnakeNotTron\SnakeNotTron\obj\Debug\netcoreapp2.1\SnakeNotTron.dll
+C:\Users\dbuckner\source\repos\SnakeNotTron\SnakeNotTron\obj\Debug\netcoreapp2.1\SnakeNotTron.pdb
